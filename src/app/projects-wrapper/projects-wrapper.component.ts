@@ -17,7 +17,6 @@ export class ProjectsWrapperComponent implements OnInit {
       .toPromise()
       .then((data: any[]) => {
         this.projects = data;
-        debugger
       })
       .catch((error) => {  })
   }
