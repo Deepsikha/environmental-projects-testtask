@@ -1,0 +1,9 @@
+<div class="container-fluid px-4 pb-4">
+  <div class="row" *ngIf="projects && projects.length">
+    <ng-container *ngFor="let project of projects">
+      <div class="col-md-6 pt-3 block-card">
+        <app-project-card [project]="project"></app-project-card>
+      </div>
+    </ng-container>
+  </div>
+</div>

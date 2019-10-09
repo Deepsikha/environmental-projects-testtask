@@ -1,0 +1,66 @@
+[
+  {
+    "project_name": "Kariba redd+ - zimbabwe",
+    "project_tag": "Reduced Emissions from Deforestation and Degradation",
+    "project_description": "Protects forests and wildlife on the southern shores of Lake Kariba in Zimbabwe, forming a giant biodiversity corrido.",
+    "weight": "967, 842",
+    "show_button": true,
+    "project_estimation": "7.50"
+  },
+  {
+    "project_name": "Arcata sunnybrae tract - USA",
+    "project_tag": "Improved Forest Management",
+    "project_description": "Preservation of large tracts of coastal RedWood and Douglas fir that were slated for harvesting by the timber company.",
+    "weight": "710,093",
+    "show_button": false,
+    "project_estimation": ""
+  },
+  {
+    "project_name": "Wolf creek landfill - USA",
+    "project_tag": "Landfill Methane Gas Capture",
+    "project_description": "Landfill methane gas-to-energy facility that provides significant environmental benefits to the surrounding area.",
+    "weight": "2,005,214",
+    "show_button": false,
+    "project_estimation": ""
+  },
+  {
+    "project_name": "Terrapass mixed portfolio - Mixed",
+    "project_tag": "Mixed",
+    "project_description": "Greenhouse gas reductions made at a variety of projects, including: reforestation, methane capture, and renewable energy.",
+    "weight": "241,967",
+    "show_button": false,
+    "project_estimation": ""
+  },
+  {
+    "project_name": "Gaston County landfill - USA",
+    "project_tag": "Landfill Methane Gas Capture",
+    "project_description": "Voluntary collection and destruction of landfill methane in two open flares and three internal combustion engine generators.",
+    "weight": "721,663",
+    "show_button": false,
+    "project_estimation": ""
+  },
+  {
+    "project_name": "Myamyn conservation - Australia",
+    "project_tag": "Reforestation & Hyrdopower",
+    "project_description": "Supporting biodiversity and reforestration in Victoria, Australia; along with carbon reduction from a hyrdopower plant in Vietnam.",
+    "weight": "995,908",
+    "show_button": false,
+    "project_estimation": "7.50"
+  },
+  {
+    "project_name": "Natural pact land art - Costa Rica",
+    "project_tag": "Reforestation through Land Art",
+    "project_description": "Unique “land art” reforestation and conservation of forests that extend an important biological corridor for many endangered species.",
+    "weight": "327",
+    "show_button": false,
+    "project_estimation": ""
+  },
+  {
+    "project_name": "Nature lab urban forestry - CANADA",
+    "project_tag": "Urban Reforestation",
+    "project_description": "Rehabilitating degraded urban and sub-urban areas through reforestation, adding significant greenery and restoring biodiversity.",
+    "weight": "13,033",
+    "show_button": true,
+    "project_estimation": "22.50"
+  }
+]
